@@ -1,0 +1,47 @@
+.page-title .head
+{
+    font-size: 8vh;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.page-title .h1{
+    font-size: 3vw;
+   position: absolute;
+   top: 45%;
+
+}
+.page-title p
+{
+   
+   font-size: 12px;
+   letter-spacing: 4px;
+}
+.mt-40vh
+{
+    margin-top: 30vh;
+}
+.srch-box
+{
+    width: 70% !important;
+    
+    /* padding-right: 10%; */
+   
+}
+.srch-btn
+{
+    border: none;
+    background-color: transparent;
+    outline-color: transparent;
+   
+}
+.input-group-text
+{
+     background-color: transparent;
+     border-left-style:none;
+}
+.mr-10
+{
+    margin-right: 7%;
+
+}
